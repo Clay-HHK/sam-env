@@ -11,6 +11,12 @@
 - Conda：24.9.2
 - PyTorch：2.x（支持 GPU 加速）
 
+### 克隆本项目
+```bash
+git clone https://github.com/Clay-HHK/sam-env.git
+cd sam-env
+```
+
 ### 环境配置
 
 使用 [Anaconda](https://www.anaconda.com/) 管理环境：
